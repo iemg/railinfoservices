@@ -1,3 +1,43 @@
+<style>
+    .container-lg {
+    max-width: 90%;
+    }
+    div {
+    overflow: scroll;
+    position: relative;
+    }
+
+    table {
+    position: relative;
+    border-collapse: collapse;
+    }
+
+    td,
+    th {
+    padding: 0.25em;
+    }
+
+    thead th, tbody tr td:first-child {
+    position: -webkit-sticky; /* for Safari */
+    position: sticky;
+    top: 0;
+    background: #DDD;
+    }
+
+    thead th:first-child, tbody tr td:first-child  {
+    left: 0;
+    z-index: 1;
+    }
+
+    tbody th,, tbody tr {
+    position: -webkit-sticky; /* for Safari */
+    position: sticky;
+    left: 0;
+    background: #FFF;
+    border-right: 1px solid #CCC;
+    }
+</style>
+
 # European railway information services
 
 | Country | [🔎/🎫](## "Routing/Ticket") | [⏱️](## "Delay information") | [🏫](## "Arrival/departure boards") | [📍](## "Live map") | [🗺️](## "Maps") | [📖](## "Timetables") | [🚧](## "Works and disruptions") | other tools |
@@ -11,7 +51,7 @@
 | BY | [🔎](https://www.rw.by) 
 | CH 🇨🇭 | [🔎 ](https://www.oev-info.ch/)<br>[🔎🎫 SBB](https://www.sbb.ch/en) | [⏱️](https://www.sbb.ch/en/travel-information/rail-traffic-information/cnfirmation-delay.html) | [🏫👀](http://chill.serena-mueller.ch) | [📍](https://maps.trafimage.ch/ch.sbb.netzkarte?layers=ch.sbb.puenktlichkeit-gondola,ch.sbb.puenktlichkeit-funicular,ch.sbb.puenktlichkeit-ferry,ch.sbb.puenktlichkeit-bus,ch.sbb.puenktlichkeit-tram,ch.sbb.puenktlichkeit-nv,ch.sbb.puenktlichkeit-fv&baselayers=ch.sbb.netzkarte,ch.sbb.netzkarte.dark,ch.sbb.netzkarte.luftbild.group,ch.sbb.netzkarte.landeskarte,ch.sbb.netzkarte.landeskarte.grau&lang=de&x=948835.29&y=6002200.99&z=11.04)<br>[📍👀](https://maps.vasile.ch/transit-sbb/) | [🗺️ lines](https://www.oev-info.ch/de/fahrplan-aktuell/liniennetzplaene-netzgrafiken) | [📖](https://www.oev-info.ch/de/fahrplan-aktuell/fahrplanarchiv)<br>[Graphic timetables](https://www.oev-info.ch/de/fahrplan-aktuell/grafische-fahrplaene) | [🚧](https://www.sbb.ch/content/internet/sbb/en/reiseinformationen/bahnverkehrsinformation/betriebslage-stoerungen.html?bbox=eyJ0b3AiOls1LjczNDkwMDAwMDAwMDY5Miw0NS4yMTI4MjQ4MzY4Nzg2OTZdLCJib3R0b20iOlsxMC42Njc3MDAwMDAwMDA3MzUsNDguMzU2MzkyODc2NDIzMDNdfQ%253D%253D) | [Travel times 👀](https://fuerstenberger.shinyapps.io/minimal_travel_times/)<br>[punctuality map 👀](http://puenktlichkeit.ch)<br>[station punctuality map 👀](http://puenktlichkeit.ch)
 | CZ 🇨🇿 | [🚆🔎 SŽ](https://najdispoj.spravazeleznic.cz)<br>[🚆🎫 OneTicket](https://oneticket.cz/home)<br>[🚆🔎🎫 ČD](https://www.cd.cz/en/spojeni-a-jizdenka/)<br>[🚆🎫 Regiojet](https://regiojet.cz/)<br>[🚆🎫 LeoExpress](https://www.leoexpress.com/en)<br>[🚆🚌 IDOS](https://idos.idnes.cz/vlakyautobusymhdvse/spojeni/) |[⏱️ČD](https://cd.cz/vlak/)<br>[⏱️Regiojet](https://regiojet.cz/aktuality-z-provozu/zpozdeni?delayCityId=372825000&delayType=departure)<br>[⏱️LeoExpress](https://www.leoexpress.com/en/current-information) | [🏫](https://www.spravazeleznic.cz/cestujici/infotabule) | [SŽ](https://mapy.spravazeleznic.cz/vlaky-provoz)<br>[GRAPP (more filters)](https://grapp.spravazeleznic.cz) | [SŽ PDF](https://provoz.spravazeleznic.cz/Portal/ViewArticle.aspx?oid=2104272)<br>[SŽ (interactive)](https://mapy.spravazeleznic.cz/vlaky) | [📖](https://www.spravazeleznic.cz/cestujici/jizdni-rad) | [SŽ planned](https://mapy.spravazeleznic.cz/stavby)<br>[ČD](https://cd.cz/jizdni-rad/omezeni-provozu/) | [locos 👀](http://sledovani.55p.cz) |
-| DE 🇩🇪 | [🔎🎫](https://www.bahn.de/buchung/start?intern=1) | [⏱️ live](https://mobile.bahn.de/bin/mobil/trainsearch.exe/dox?webview=&)<br>[⏱️ archive👀](https://www.zugfinder.net/) | [🏫](https://www.bahnhof.de)<br>[🏫👀](https://trainboard.de.cool) | | [lines](https://www.bahn.de/service/fahrplaene/streckennetz)<br>infra [I](https://geovdbn.deutschebahn.com/isr) [II](https://geovdbn.deutschebahn.com/pgv-map/client/gisclient/index.html?applicationId=1179651) | [📖](https://kursbuch.bahn.de/hafas/kbview.exe/dn?rt=1&mainframe=tab_main) | [live infra](https://strecken-info.de)<br>[live passenger](https://www.bahn.de/service/fahrplaene/aktuell)<br>[planned](https://bauinfos.deutschebahn.com/)<br>[planned long-distance](https://bauinfos.deutschebahn.com/fernverkehr) | | [trassenfinder.de](https://trassenfinder.de/)<br>[bahn.expert👀](https://bahn.expert)
+| DE 🇩🇪 | [🔎🎫](https://www.bahn.de/buchung/start?intern=1) | [⏱️ live](https://mobile.bahn.de/bin/mobil/trainsearch.exe/dox?webview=&)<br>[⏱️ archive👀](https://www.zugfinder.net/) | [🏫](https://www.bahnhof.de)<br>[🏫👀](https://trainboard.de.cool) | | [lines](https://www.bahn.de/service/fahrplaene/streckennetz)<br>infra [I](https://geovdbn.deutschebahn.com/isr) [II](https://geovdbn.deutschebahn.com/pgv-map/client/gisclient/index.html?applicationId=1179651) | [📖](https://kursbuch.bahn.de/hafas/kbview.exe/dn?rt=1&mainframe=tab_main) | [live infra](https://strecken-info.de)<br>[live passenger](https://www.bahn.de/service/fahrplaene/aktuell)<br>[planned](https://bauinfos.deutschebahn.com/)<br>[planned long-distance](https://bauinfos.deutschebahn.com/fernverkehr) | [trassenfinder.de](https://trassenfinder.de/)<br>[bahn.expert👀](https://bahn.expert)
 | DK 🇩🇰 | [🔎🎫](https://www.dsb.dk/trafikinformation/koereplaner/) | | | | [🗺️](https://www.dsb.dk/trafikinformation/koereplaner/koreplaner-strakningskoreplaner-pdf/)  | [📖](https://www.dsb.dk/trafikinformation/koereplaner/koreplaner-strakningskoreplaner-pdf/) | [🚧](https://www.dsb.dk/trafikinformation/andringer-i-trafik-og-drift/andringer-i-trafik-og-drift/)
 | EE 🇪🇪 | [🔎🎫](https://elron.ee) | | | | | [📖](https://elron.ee/en/soiduinfo/soiduplaanid) | [🚧](https://elron.ee/en/soiduinfo/teated)
 | ES 🇪🇸 | [🔎 RENFE](https://www.renfe.com/es/en/travel/informacion-util/horarios)<br>[🎫 RENFE](https://www.renfe.com/es/en) | | | | [🗺️](https://www.renfe.com/es/en/travel/informacion-util/mapas-y-lineas/ave-y-larga-distancia) | | [🚧](https://www.renfe.com/es/en/renfe-group/communication/renfe-today/alerts)
@@ -37,7 +77,7 @@
 | RS 🇷🇸 | [🔎](https://w3.srbvoz.rs/redvoznje/info/en) | | [🏫](https://w3.srbvoz.rs/redvoznje/info/en) | | | [📖](https://www.srbvoz.rs/en/timetable-kurir/) | [🚧](https://w3.srbvoz.rs/redvoznje)
 | SE 🇸🇪 | [🔎🎫](https://www.sj.se/en/search-journey/search/departure-station/arrival-station/departure-date) | | | [1409.se👀](https://1409.se/trains/Rst)<br>[traincheck.se👀](https://www.traincheck.se) | | | [🚧](https://www.sj.se/en/traffic-information)
 | SI 🇸🇮 | [🔎](https://potniski.sz.si/en/timetable-finder/)<br>[🎫](https://eshop.sz.si) | [⏱️](https://potniski.sz.si/en/help-and-travel-updates/#delays)| | [📍](https://potniski.sz.si/en/help-and-travel-updates/#active-trains-display) | [🗺️](https://potniski.sz.si/en/plan-your-journey/map-rail/) | | [🚧](https://potniski.sz.si/en/help-and-travel-updates/#rail-replacement-buses)
-| SK 🇸🇰 | [🔎 ŽSR](https://tis.zsr.sk/elis/pohybvlaku)<br>[🔎 ZSSK](https://www.zssk.sk/en/)<br>[🎫 ZSSK](https://predaj.zssk.sk/search) | [⏱️ ŽSR (all)](https://tis.zsr.sk/elis/pohybvlaku)<br>[⏱️ Regiojet](https://regiojet.sk/aktuality-z-prevadzky/meskanie-spojov) | [🏫](https://aplikacie.zsr.sk/TabuleZsr/) | [📍](https://mapa.zsr.sk/index.aspx) |  | [📖](https://www.zssk.sk/cestovny-poriadok/) | [🚧](https://aplikacie.zsr.sk/MapaVylukZsr/index.aspx) |  | [train delays👀](https://meskanievlakov.info)
+| SK 🇸🇰 | [🔎 ŽSR](https://tis.zsr.sk/elis/pohybvlaku)<br>[🔎 ZSSK](https://www.zssk.sk/en/)<br>[🎫 ZSSK](https://predaj.zssk.sk/search) | [⏱️ ŽSR (all)](https://tis.zsr.sk/elis/pohybvlaku)<br>[⏱️ Regiojet](https://regiojet.sk/aktuality-z-prevadzky/meskanie-spojov) | [🏫](https://aplikacie.zsr.sk/TabuleZsr/) | [📍](https://mapa.zsr.sk/index.aspx) |  | [📖](https://www.zssk.sk/cestovny-poriadok/) | [🚧](https://aplikacie.zsr.sk/MapaVylukZsr/index.aspx) | [train delays👀](https://meskanievlakov.info)
 | TR 🇹🇷 | [🔎🎫](https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/tcddWebContent.jsf) | | | |[🗺️👀](https://railturkey.org/wp-content/uploads/2020/10/turkiye-demiryollari-haritasi-2019.jpg)
 | UA 🇺🇦 | [🔎🎫](https://booking-new.uz.gov.ua/en) | [⏱️](https://uz-vezemo.uz.gov.ua/delayform) | [🏫](https://booking-new.uz.gov.ua/en/schedule)
 
