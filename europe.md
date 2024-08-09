@@ -36,10 +36,14 @@
     background: #FFF;
     border-right: 1px solid #CCC;
     }
+    div.overview-table {
+      position: absolute;
+      width: 88%;
+    }
 </style>
 
 # European railway information services
-<div id="overview-table" style="position: absolute; width: 88%;">
+<div id="overview-table">
 | Country | [🔎/🎫](## "Routing/Ticket") | [⏱️](## "Delay information") | [🏫](## "Arrival/departure boards") | [📍](## "Live map") | [🗺️](## "Maps") | [📖](## "Timetables") | [🚧](## "Works and disruptions") | other tools |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | EU 🇪🇺 | [🔎 DB](https://www.bahn.de/buchung/start?intern=1)<br>[🔎 ÖBB](https://fahrplan.oebb.at/webapp/)| | | [travic.app](https://travic.app)<br>[geOps](https://mobility.portal.geops.io/) | [OpenRailwayMap](https://www.openrailwaymap.org)<br>[railroadmaps (former bueker.net)](https://websites.umich.edu/~yopopov/rrt/railroadmaps/)<br>[allrailmap](https://allrailmap.com)<br>[nachtzugkarte.de](https://nachtzugkarte.de) | [📖 archive](https://timetableworld.com) | | [vagonweb.cz](https://vagonweb.cz)<br>[OSM Train Route Analysis](http://osmtrainroutes.bplaced.net/index.php) |
