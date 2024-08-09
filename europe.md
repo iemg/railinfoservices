@@ -41,8 +41,8 @@
       max-width: 100%;
     }
     .px-3 {
-      padding-left: 0px;
-      padding-right: 0px;
+      padding-left: 8px !important;
+      padding-right: 0px !important;
     }
 }
 </style>
