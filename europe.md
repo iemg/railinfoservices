@@ -43,7 +43,7 @@
 </style>
 
 # European railway information services
-<div id="overview-table">
+
 | Country | [🔎/🎫](## "Routing/Ticket") | [⏱️](## "Delay information") | [🏫](## "Arrival/departure boards") | [📍](## "Live map") | [🗺️](## "Maps") | [📖](## "Timetables") | [🚧](## "Works and disruptions") | other tools |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | EU 🇪🇺 | [🔎 DB](https://www.bahn.de/buchung/start?intern=1)<br>[🔎 ÖBB](https://fahrplan.oebb.at/webapp/)| | | [travic.app](https://travic.app)<br>[geOps](https://mobility.portal.geops.io/) | [OpenRailwayMap](https://www.openrailwaymap.org)<br>[railroadmaps (former bueker.net)](https://websites.umich.edu/~yopopov/rrt/railroadmaps/)<br>[allrailmap](https://allrailmap.com)<br>[nachtzugkarte.de](https://nachtzugkarte.de) | [📖 archive](https://timetableworld.com) | | [vagonweb.cz](https://vagonweb.cz)<br>[OSM Train Route Analysis](http://osmtrainroutes.bplaced.net/index.php) |
@@ -84,11 +84,10 @@
 | SK 🇸🇰 | [🔎 ŽSR](https://tis.zsr.sk/elis/pohybvlaku)<br>[🔎 ZSSK](https://www.zssk.sk/en/)<br>[🎫 ZSSK](https://predaj.zssk.sk/search) | [⏱️ ŽSR (all)](https://tis.zsr.sk/elis/pohybvlaku)<br>[⏱️ Regiojet](https://regiojet.sk/aktuality-z-prevadzky/meskanie-spojov) | [🏫](https://aplikacie.zsr.sk/TabuleZsr/) | [📍](https://mapa.zsr.sk/index.aspx) |  | [📖](https://www.zssk.sk/cestovny-poriadok/) | [🚧](https://aplikacie.zsr.sk/MapaVylukZsr/index.aspx) | [train delays👀](https://meskanievlakov.info)
 | TR 🇹🇷 | [🔎🎫](https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/tcddWebContent.jsf) | | | |[🗺️👀](https://railturkey.org/wp-content/uploads/2020/10/turkiye-demiryollari-haritasi-2019.jpg)
 | UA 🇺🇦 | [🔎🎫](https://booking-new.uz.gov.ua/en) | [⏱️](https://uz-vezemo.uz.gov.ua/delayform) | [🏫](https://booking-new.uz.gov.ua/en/schedule)
-</div>
+
 <!-- Bonus: [Tokyo Metro and Suburban Trains👀](https://minitokyo3d.com/) -->
 
-<div id="legend" style="position: absolute; width: 88%;">
 nat. = national  
 int. = international  
 
-👀 = third party tools/links</div>
+👀 = third party tools/links
