@@ -36,9 +36,14 @@
     background: #FFF;
     border-right: 1px solid #CCC;
     }
-    div.overview-table {
-      position: absolute;
-      width: 88%;
+
+    .container-lg {
+      max-width: 100%;
+    }
+
+    .px-3 {
+      padding-left: 0px;
+      padding-right: 0px;
     }
 </style>
 
