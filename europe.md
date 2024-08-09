@@ -36,15 +36,15 @@
     background: #FFF;
     border-right: 1px solid #CCC;
     }
-
+@media only screen and (max-width: 750px) {
     .container-lg {
       max-width: 100%;
     }
-
     .px-3 {
       padding-left: 0px;
       padding-right: 0px;
     }
+}
 </style>
 
 # European railway information services
