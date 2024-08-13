@@ -108,4 +108,4 @@ int. = international
 ## you know further links? or just have comments? 
 
 - [repo on github](https://github.com/iemg/railinfoservices)
-- [Mastodon](urbanists.social/@isaak)
+- [Mastodon](https://urbanists.social/@isaak)
