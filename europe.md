@@ -113,6 +113,7 @@ int. = international
 
 - [repo on github](https://github.com/iemg/railinfoservices)
 - [Mastodon](https://urbanists.social/@isaak)
+- [Bluesky](https://bsky.app/profile/isaak.at)
 
 
 ---
@@ -153,7 +154,7 @@ function date_ddmmmyy(date)
 
   return "" +
     (d<10?"0"+d:d) + "-" +
-    mmm + "-" +
+    mmm + "-" + "20" +
     (y<10?"0"+y:y);
 }
 
