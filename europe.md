@@ -130,6 +130,18 @@ function date_ddmmmyy(date)
   var m = date.getMonth() + 1;
   var y = date.getYear();
 
+  // handle different year values 
+  // returned by IE and NS in 
+  // the year 2000.
+  if(y >= 2000)
+  {
+    y -= 2000;
+  }
+  if(y >= 100)
+  {
+    y -= 100;
+  }
+
   // could use splitString() here 
   // but the following method is 
   // more compatible
@@ -142,7 +154,7 @@ function date_ddmmmyy(date)
   return "" +
     (d<10?"0"+d:d) + "-" +
     mmm + "-" +
-    y;
+    (y<10?"0"+y:y);
 }
 
 
