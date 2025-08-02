@@ -85,14 +85,14 @@
 | ME 🇲🇪 | [Trains from Skopje](https://mzt.mk/poagane-od-skopje/)<br>[Trains to Skopje](https://mzt.mk/pristigane-vo-skopje/)<br>[prices](https://mzt.mk/цени-по-релации/) | | | [📍👀](http://mapper.zeljeznice.net/#7/44.411/18) | | [📖](https://mzi.mk/en/timetable/)
 | MK 🇲🇰 | [🔎](https://zpcg.me/en) | | | [📍👀](http://mapper.zeljeznice.net/#7/44.411/18) | | [📖](https://zpcg.me/en/red-voznje/ukupno)
 | NL 🇳🇱 | [🔎🎫 9292.nl](https://9292.nl/en)<br>[🔎🎫 NS](https://www.ns.nl/en/travel-information) | |  [🏫](https://www.ns.nl/en/travel-information) | [📍](https://en.treinposities.nl) | [infra](https://infrabel.be/en/networkstatement) | | [🚆🚌🚧](https://9292.nl/en/messages)<br>[🚆🚧 live](https://www.ns.nl/en/travel-information/current-situation-on-the-tracks/)<br>[🚆🚧 nat. planned](https://www.ns.nl/en/travel-information/maintenance-on-the-tracks/)<br>[🚆🚧 int.](https://www.nsinternational.com/en/overview-service)
-| NO 🇳🇴 | [🔎🎫](https://entur.no) | | | | [📍](https://www.banenor.no/reise-og-trafikk/togkart-i-sanntid/) | [📖](https://www.vy.no/trafikk-og-ruter/rutetider) | [🚧](https://www.banenor.no/reise-og-trafikk/trafikkmeldinger/)
+| NO 🇳🇴 | [🔎🎫](https://entur.no) | | | | [📍](https://www.banenor.no/reise-og-trafikk/togkart-i-sanntid/)<br>[📍👀](https://balise.no) | [📖](https://www.vy.no/trafikk-og-ruter/rutetider) | [🚧](https://www.banenor.no/reise-og-trafikk/trafikkmeldinger/)
 | PL 🇵🇱 | [🔎 PKP](https://portalpasazera.pl/en/Wyszukiwarka/Index)<br>[🔎🎫 bilkom](https://bilkom.pl)<br>[🎫 KOLEO](https://koleo.pl) | [⏱️](https://portalpasazera.pl/en/Opoznienia/Index?s=4)  | [🏫](https://portalpasazera.pl/en/Plakaty) | [📍](https://portalpasazera.pl/en/MapaOL) | | [📖](https://portalpasazera.pl/en/Tablice/RozkladWformieTablic) | | [consists👀](https://bocznica.eu)
 | PT 🇵🇹 | [🔎](https://www.cp.pt/passageiros/en/train-times)<br>[🎫](https://www.cp.pt/passageiros/en/buy-tickets) | | | | | |[🚧](https://www.cp.pt/passageiros/en/train-times/Alerts)
 | RO 🇷🇴 | [🔎](https://mersultrenurilor.infofer.ro/en-GB/Itineraries)<br>[🔎🎫 nat.](https://bilete.cfrcalatori.ro/en-GB/Itineraries)<br>[🎫 int.](https://bileteinternationale.cfrcalatori.ro/en/booking/search) | [⏱️](https://mersultrenurilor.infofer.ro/en-GB/Trains) | [🏫](https://mersultrenurilor.infofer.ro/en-GB/Stations)
 | RS 🇷🇸 | [🔎](https://w3.srbvoz.rs/redvoznje/info/en) | | [🏫](https://w3.srbvoz.rs/redvoznje/info/en) | [📍👀](http://mapper.zeljeznice.net/#7/44.411/18) | | [📖](https://www.srbvoz.rs/en/timetable-kurir/) | [🚧](https://w3.srbvoz.rs/redvoznje)
 | SE 🇸🇪 | [🚆🚌🔎 resrobot](https://reseplanerare.resrobot.se/)<br>[🚆🚌🔎🎫 resrobot](https://kopbiljett.resrobot.trainplanet.com/)<br>[🚆🔎🎫 SJ](https://www.sj.se/en/search-journey/search/departure-station/arrival-station/departure-date) | | | [📍](https://www.trafikverket.se/trafikinformation/tagkarta/?map_x=650778.00005&map_y=7200000&map_z=2&map_l=11110)<br>[1409.se👀](https://1409.se/trains/Rst)<br>[traincheck.se👀](https://www.traincheck.se) | [🗺](https://bransch.trafikverket.se/for-dig-i-branschen/jarnvag/trafikledning) | [📖 (incl. graphic📖)](https://bransch.trafikverket.se/for-dig-i-branschen/jarnvag/tagplan-att-skapa-tidtabeller-for-tag/) | [🚧](https://www.sj.se/en/traffic-information)
 | SI 🇸🇮 | [🔎](https://potniski.sz.si/en/timetable-finder/)<br>[🎫](https://eshop.sz.si) | [⏱️](https://potniski.sz.si/en/help-and-travel-updates/#delays)| | [📍](https://potniski.sz.si/en/help-and-travel-updates/#active-trains-display) | [🗺️](https://potniski.sz.si/en/plan-your-journey/map-rail/) | [📖](https://potniski.sz.si/vozni-redi/vozni-redi-po-relacijah/) | [🚧](https://potniski.sz.si/en/help-and-travel-updates/#rail-replacement-buses)
-| SK 🇸🇰 | [🚆🚌🔎🎫  CP](https://cp.sk/vlakbusmhd/spojenie/)<br>[🔎 ŽSR](https://tis.zsr.sk/elis/pohybvlaku)<br>[🔎 ZSSK](https://www.zssk.sk/en/)<br>[🎫 ZSSK](https://predaj.zssk.sk/search) | [⏱️ ŽSR (all)](https://tis.zsr.sk/elis/pohybvlaku)<br>[⏱️ Regiojet](https://regiojet.sk/aktuality-z-prevadzky/meskanie-spojov) | [🏫](https://aplikacie.zsr.sk/TabuleZsr/) | [📍](https://mapa.zsr.sk/index.aspx) | [🗺️](https://aplikacie.zsr.sk/InfoMapaInternet5/index.aspx) | [📖](https://www.zssk.sk/cestovny-poriadok/) | [🚧](https://aplikacie.zsr.sk/MapaVylukZsr/index.aspx) | [train delays👀](https://meskanievlakov.info)
+| SK 🇸🇰 | [🚆🚌🔎🎫  CP](https://cp.sk/vlakbusmhd/spojenie/)<br>[🔎 ŽSR](https://tis.zsr.sk/elis/pohybvlaku)<br>[🔎 ZSSK](https://www.zssk.sk/en/)<br>[🎫 ZSSK](https://predaj.zssk.sk/search) | [⏱️ ŽSR (all)](https://tis.zsr.sk/elis/pohybvlaku)<br>[⏱️ Regiojet](https://regiojet.sk/aktuality-z-prevadzky/meskanie-spojov)<br>[👀](https://meskanievlakov.info) | [🏫](https://aplikacie.zsr.sk/TabuleZsr/) | [📍](https://mapa.zsr.sk/index.aspx) | [🗺️](https://aplikacie.zsr.sk/InfoMapaInternet5/index.aspx) | [📖](https://www.zssk.sk/cestovny-poriadok/) | [🚧](https://aplikacie.zsr.sk/MapaVylukZsr/index.aspx) | 
 | TR 🇹🇷 | [🔎🎫](https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/tcddWebContent.jsf) | | | |[🗺️👀](https://railturkey.org/wp-content/uploads/2020/10/turkiye-demiryollari-haritasi-2019.jpg)
 | UA 🇺🇦 | [🔎🎫](https://booking-new.uz.gov.ua/en) | [⏱️](https://uz-vezemo.uz.gov.ua/delayform) | [🏫](https://booking-new.uz.gov.ua/en/schedule)
 
@@ -113,3 +113,78 @@ int. = international
 
 - [repo on github](https://github.com/iemg/railinfoservices)
 - [Mastodon](https://urbanists.social/@isaak)
+
+
+---
+<script 
+  type="text/JavaScript" 
+  language="JavaScript">
+<!-- 
+//
+// format date as dd-mmm-yy
+// example: 12-Jan-99
+//
+function date_ddmmmyy(date)
+{
+  var d = date.getDate();
+  var m = date.getMonth() + 1;
+  var y = date.getYear();
+
+  // handle different year values 
+  // returned by IE and NS in 
+  // the year 2000.
+  if(y >= 2000)
+  {
+    y -= 2000;
+  }
+  if(y >= 100)
+  {
+    y -= 100;
+  }
+
+  // could use splitString() here 
+  // but the following method is 
+  // more compatible
+  var mmm = 
+    ( 1==m)?'Jan':( 2==m)?'Feb':(3==m)?'Mar':
+    ( 4==m)?'Apr':( 5==m)?'May':(6==m)?'Jun':
+    ( 7==m)?'Jul':( 8==m)?'Aug':(9==m)?'Sep':
+    (10==m)?'Oct':(11==m)?'Nov':'Dec';
+
+  return "" +
+    (d<10?"0"+d:d) + "-" +
+    mmm + "-" +
+    (y<10?"0"+y:y);
+}
+
+
+//
+// get last modified date of the 
+// current document.
+//
+function date_lastmodified()
+{
+  var lmd = document.lastModified;
+  var s   = "Unknown";
+  var d1;
+
+  // check if we have a valid date
+  // before proceeding
+  if(0 != (d1=Date.parse(lmd)))
+  {
+    s = "" + date_ddmmmyy(new Date(d1));
+  }
+
+  return s;
+}
+
+//
+// finally display the last modified date
+// as DD-MMM-YY
+//
+document.write( 
+  "last updated on " + 
+  date_lastmodified() );
+
+// -->
+</script>
