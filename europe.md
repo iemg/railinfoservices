@@ -110,7 +110,7 @@ int. = international
 - [DSO: list of 📖 private operators in 🇩🇰🇮🇹🇸🇪🇪🇸](https://www.drehscheibe-online.de/foren/read.php?99,4916279)
 - [fahrplancenter.com: list of 📖](https://www.fahrplancenter.com/Kursbuchlinks.html)
 
-## you know further links? or just have comments? 
+## broken link? missing resources? comments? 
 
 - [repo on github](https://github.com/iemg/railinfoservices)
 - [Mastodon](https://urbanists.social/@isaak)
